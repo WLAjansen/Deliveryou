@@ -38,3 +38,5 @@ Hier staan alle te maken pagina's:
    ##### ^^Word gemaakt door Regilio.^^
 
 > Adding products & Remove products.
+
+##### ^^ Word gemaakt door Daan ^^
