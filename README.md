@@ -2,7 +2,7 @@
 
 ## Introductie
 
-Welkom tot de github pagina voor mijn laravel website. 
+Welkom tot de github pagina onze delivery website van eten en drinken
 
 ## Opdrachten 
 
