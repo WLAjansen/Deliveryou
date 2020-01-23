@@ -9,13 +9,19 @@ Welkom tot de github pagina van onze levering website voor eten en drinken
  Hieronder staan opdrachten die aanwezig zijn van onze Google docs
  
  >Homepagina
- Login form
+ > Login form
 
 ## Opdrachten 
 
  Hieronder staan opdrachten die aanwezig zijn van onze Google docs
  
- > Mogelijkheid om in te loggen
+ > https://docs.google.com/document/d/1odYdy3KESOFr0NZLEov2BjlfIcqvN80IeJkrhHMwrZ8/edit?ts=5ddf9f85
  
+ ## Todo 
 
+Hier staan alle te maken pagina's:
  
+ > Product pagina 
+ > Afreken pagina
+ > Bedankt voor uw bestelling pagina.
+> Adding products & Remove products.
