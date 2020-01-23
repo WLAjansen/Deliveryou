@@ -23,17 +23,14 @@ Welkom tot de github pagina van onze levering website voor eten en drinken
 Hier staan alle te maken pagina's:
 
  > Product pagina 
-
+####^^Word gemaakt door Regilio^^
  > Afreken pagina
-
-  ##### Word gemaakt door Lucas.
-  >Homepagina
+  ##### ^^Word gemaakt door Kevin.^^
+ 
+  > Homepagina
   
   >Inloggen en registreren
-  
-  >Alle restaurants pagina
- 
-   ##### ^^Word gemaakt door Kevin.^^
+  ##### ^^Word gemaakt door Lucas.^^
  > Bedankt voor uw bestelling pagina.
    ##### ^^Word gemaakt door Vadim.^^
 
