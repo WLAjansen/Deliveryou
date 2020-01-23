@@ -22,6 +22,9 @@ Welkom tot de github pagina van onze levering website voor eten en drinken
 Hier staan alle te maken pagina's:
  
  > Product pagina 
+
  > Afreken pagina
+
  > Bedankt voor uw bestelling pagina.
+
 > Adding products & Remove products.
