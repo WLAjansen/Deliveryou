@@ -34,7 +34,7 @@ Hier staan alle te maken pagina's:
  > Bedankt voor uw bestelling pagina.
    ##### ^^Word gemaakt door Vadim.^^
    
-   >Producten pagina.
+ >Producten pagina.
    ##### ^^Word gemaakt door Regilio.^^
 
 > Adding products & Remove products.
