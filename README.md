@@ -24,8 +24,8 @@ Hier staan alle te maken pagina's:
  > Product pagina 
 
  > Afreken pagina
-   # Word gemaakt door Kevin.
+   ### Word gemaakt door Kevin.
  > Bedankt voor uw bestelling pagina.
-   # Word gemaakt door Vadim.
+   ### Word gemaakt door Vadim.
 
 > Adding products & Remove products.
