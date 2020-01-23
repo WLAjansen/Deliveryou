@@ -32,11 +32,11 @@ Hier staan alle te maken pagina's:
    ##### ^^Word gemaakt door Lucas.^^
   
  > Bedankt voor uw bestelling pagina.
-   ##### ^^Word gemaakt door Vadim.^^
+  ##### ^^ Word gemaakt door Daan ^^
    
  >Producten pagina.
    ##### ^^Word gemaakt door Regilio.^^
 
-> Adding products & Remove products.
+ > Adding products & Remove products.
+  ##### ^^Word gemaakt door Vadim.^^
 
-##### ^^ Word gemaakt door Daan ^^
