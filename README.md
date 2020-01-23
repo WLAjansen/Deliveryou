@@ -27,9 +27,11 @@ Hier staan alle te maken pagina's:
  > Afreken pagina
 
   ##### Word gemaakt door Lucas.
-  > Homepagina
+  >Homepagina
   
   >Inloggen en registreren
+  
+  >Alle restaurants pagina
  
    ##### ^^Word gemaakt door Kevin.^^
  > Bedankt voor uw bestelling pagina.
