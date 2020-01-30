@@ -1,0 +1,12 @@
+body, div {
+	background-color: white !important;
+}
+
+.btn-primary {
+	background-color: orange !important;
+	border-color: orange;
+}
+
+a {
+	color: orange;
+}
