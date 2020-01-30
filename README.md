@@ -4,6 +4,8 @@
 
 Welkom tot de github pagina van onze levering website voor eten en drinken
 
+![sc](https://i.imgur.com/M0C0y9z.png)
+
 ## Opdrachten 
 
  Hieronder staan opdrachten die aanwezig zijn van onze Google docs
