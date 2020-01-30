@@ -1,0 +1,23 @@
+body, div {
+	background-color: white !important;
+}
+
+.btn-primary {
+	background-color: rgb(255,107,0);
+	border-color: rgb(255,107,0);
+}
+
+a {
+	color: rgb(255,107,0);
+}
+
+
+.navigation-clean-search .form-inline .search-field {
+    background: #f3f3f3;
+    border: none;
+    border-radius: 0;
+    color: #ccc;
+    box-shadow: none;
+    color: inherit;
+    transition: border-bottom-color 0.3s;
+}
