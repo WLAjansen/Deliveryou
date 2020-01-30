@@ -28,7 +28,7 @@ Hier staan alle te maken pagina's:
 
   > Homepagina
   
-  >Inloggen en registreren
+  >Inloggen en registreren < AF 
    ##### ^^Word gemaakt door Lucas.^^
   
  > Bedankt voor uw bestelling pagina.
