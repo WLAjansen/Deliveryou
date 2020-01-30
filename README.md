@@ -24,20 +24,20 @@ Hier staan alle te maken pagina's:
 
 
  > Afreken pagina
- ##### ^^Word gemaakt door Kevin.^^
+ ##### ^^Is gemaakt door Kevin.^^
 
   > Homepagina
   
-  >Inloggen en registreren < AF 
-   ##### ^^Word gemaakt door Lucas.^^
+  >Inloggen en registreren 
+   ##### ^^Is gemaakt door Lucas.^^
   
  > Bedankt voor uw bestelling pagina.
- ##### ^^Word gemaakt door Vadim.^^
+ ##### ^^Is gemaakt door Vadim.^^
   
    
  >Producten pagina.
-   ##### ^^Word gemaakt door Regilio.^^
+   ##### ^^Is gemaakt door Regilio.^^
 
- > Adding products & Remove products.
+ > User interface & account overzicht
   ##### ^^ Word gemaakt door Daan ^^
 
